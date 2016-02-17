@@ -1,4 +1,4 @@
-Podstawy programowania 2015/2016
+Programowanie w Pythonie 2015/2016
 ==================
 
 Tematy
