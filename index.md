@@ -26,4 +26,4 @@ Notka
 Jeśli znalazłeś na tej stronie błąd, nieścisłość
 lub chciałbyś cokolwiek dodać/poprawić,
 śmiało zgłaszaj propozycje
-na [githubie](https://github.com/mpanczyk/pp_course).
+na [githubie](https://github.com/mpanczyk/py_course).
