@@ -12,6 +12,11 @@ Literatura
   1.  [Python Documentation](https://www.python.org/doc/)
   2.  [Dive Into Python](http://www.diveintopython.net/)
 
+Monitor
+------------------
+Zamiast projektora na zajęciach będziemy wykorzystywać
+[_monitor_](./monitor/) wyświetlany w oknie przeglądarki.
+
 Konsultacje
 ------------------
 
