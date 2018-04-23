@@ -1,4 +1,4 @@
-Programowanie w Pythonie 2016/2017
+Programowanie w Pythonie 2017/2018
 ==================
 
 Tematy
@@ -15,11 +15,6 @@ Literatura
   3.  [Python anti-patterns](http://docs.quantifiedcode.com/python-anti-patterns/)
   4.  [Python wats](https://github.com/cosmologicon/pywat)
   5.  [Python tutor](http://www.pythontutor.com/visualize.html#mode=edit)
-
-Monitor
-------------------
-Zamiast projektora na zajęciach będziemy wykorzystywać
-[_monitor_](./monitor/) wyświetlany w oknie przeglądarki.
 
 Notka
 ------------------
